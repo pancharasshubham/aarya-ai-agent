@@ -1,5 +1,5 @@
-# aarya-ai-agent
-**A.A.R.Y.A 2.0 – Autonomous AI Emergency Response Agent**
+# AARYA_AI_AGENT
+**A.A.R.Y.A 2.0 - Autonomous AI Emergency Response Agent**
 
 ## Problem
 In emergencies, people often can’t explain what’s happening clearly.
